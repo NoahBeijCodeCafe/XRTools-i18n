@@ -8,4 +8,4 @@ When grabbing objects we want our avatar to visually grab the object. this we ca
 
 ## Setup Wizard
 
-bla bla bla bla
+bla bla bla bla edit made
