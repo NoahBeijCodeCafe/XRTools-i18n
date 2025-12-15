@@ -556,5 +556,8 @@
   "theme.tags.tagsPageTitle": {
     "message": "Tags",
     "description": "The title of the tag list page"
+  },
+  "Demo to come! :)": {
+    "message": "Demo to come! :)"
   }
 }
