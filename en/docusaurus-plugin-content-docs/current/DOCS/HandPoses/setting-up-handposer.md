@@ -9,3 +9,4 @@ For setting up the handposer we need to generate a `HandconstraintsDefinition` t
 ## Setup Wizard
 
 bla bla bla bla
+small test
